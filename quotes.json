@@ -1307,12 +1307,18 @@
   {
     text: "Dream is not that which you see while sleeping it is something that does not let you sleep.",
     from: "A P J Abdul Kalam"
-  }
-
-,
+  },
   {
     text: "It Is Very Easy To Defeat Someone, But It Is Very Hard To Win Someone",
     from: "A P J Abdul Kalam"
   },
+  {
+    text: "Once your mind stretches to a new level it never goes back to its original dimension",
+    from: "A P J Abdul Kalam"
+  },
+  {
+    text: "If you want to shine like a sun, first burn like a sun",
+    from: "A P J Abdul Kalam"
+  }
 
 ]
